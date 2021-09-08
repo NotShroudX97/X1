@@ -1,2 +1,2 @@
 # X1
-Initia_Build XD
+Initial_Build XD
