@@ -1,6 +1,3 @@
-# X1
-Initial_Build XD
-
 <h2 align="center"><b>Owner: <a href="https://telegram.dog/NotShroudX97">◢◤ 𝘕𝘰𝘵𝘚𝘩𝘳𝘰𝘶𝘥 家</a></b></h2>
 <br>
 <p align="center">
@@ -12,3 +9,5 @@ Initial_Build XD
 <b>Powerfull Badass Plugable Telegram Userbot</b>
 <br>
 <br>
+
+#HyperFusion-DevX | Hellax
